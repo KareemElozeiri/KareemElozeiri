@@ -3,8 +3,6 @@
 ### Connect with me on:
 [Linkedin](https://www.google.com)
 [Email](k.elozeiri@gmail.com)
-### Gitub Stats:
-[![Kareem's github stats](https://github-readme-stats.vercel.app/api?username=
-KareemElozeiri)](https://github.com/KareemElozeiri/github-readme-stats)
+
 
 
