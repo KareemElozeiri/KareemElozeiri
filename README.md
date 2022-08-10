@@ -6,5 +6,4 @@
 Email: k.elozeiri@gmail.com
 
 ## Github stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemElozeiri&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Ozi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KareemElozeiri)](https://github.com/anuraghazra/github-readme-stats)
