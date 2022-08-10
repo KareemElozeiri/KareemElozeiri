@@ -6,4 +6,4 @@
 Email: k.elozeiri@gmail.com
 
 ## Github stats:
-[![Ozi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KareemElozeiri)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KareemElozeiri)](https://github.com/anuraghazra/github-readme-stats)
