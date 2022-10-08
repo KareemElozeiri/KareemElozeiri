@@ -1,5 +1,5 @@
 # Hi there 👋
-  I am Kareem Elozeiri an information engineer. My main interests are Mathematics, Machine learning, data science and Algorithms. I love building fun scalable well-structured projects that can do amazing things. 
+  I am an information engineering student at Zewail city of science and technology focusing on Artificial intelligence and software engineering. I am passionate about learning, applying and creating probability, statistical and data science and machine learning projects. I love building fun scalable well-structured projects that can do amazing things.
 # Connect with me on:
 [Linkedin](https://www.linkedin.com/in/kareem-elozeiri-a09657218/)
 
